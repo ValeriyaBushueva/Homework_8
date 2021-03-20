@@ -1,0 +1,16 @@
+C:\sources\geekbrains\Основы языка C#\sandbox\Lesson8\SApp02\obj\Debug\SApp02.csproj.CoreCompileInputs.cache
+C:\sources\geekbrains\Основы языка C#\sandbox\Lesson8\SApp02\bin\Debug\Person.xml
+C:\sources\geekbrains\Основы языка C#\sandbox\Lesson8\SApp02\bin\Debug\SApp02.exe.config
+C:\sources\geekbrains\Основы языка C#\sandbox\Lesson8\SApp02\bin\Debug\SApp02.exe
+C:\sources\geekbrains\Основы языка C#\sandbox\Lesson8\SApp02\bin\Debug\SApp02.pdb
+C:\sources\geekbrains\Основы языка C#\sandbox\Lesson8\SApp02\obj\Debug\SApp02.exe
+C:\sources\geekbrains\Основы языка C#\sandbox\Lesson8\SApp02\obj\Debug\SApp02.pdb
+C:\sources\geekbrains\Основы языка C#\sandbox\Lesson8\SApp02\obj\Debug\SApp02.csprojAssemblyReference.cache
+C:\Users\Бушуев\Desktop\Lesson8\Lesson8\SApp02\bin\Debug\Person.xml
+C:\Users\Бушуев\Desktop\Lesson8\Lesson8\SApp02\bin\Debug\SApp02.exe.config
+C:\Users\Бушуев\Desktop\Lesson8\Lesson8\SApp02\bin\Debug\SApp02.exe
+C:\Users\Бушуев\Desktop\Lesson8\Lesson8\SApp02\bin\Debug\SApp02.pdb
+C:\Users\Бушуев\Desktop\Lesson8\Lesson8\SApp02\obj\Debug\SApp02.csprojAssemblyReference.cache
+C:\Users\Бушуев\Desktop\Lesson8\Lesson8\SApp02\obj\Debug\SApp02.csproj.CoreCompileInputs.cache
+C:\Users\Бушуев\Desktop\Lesson8\Lesson8\SApp02\obj\Debug\SApp02.exe
+C:\Users\Бушуев\Desktop\Lesson8\Lesson8\SApp02\obj\Debug\SApp02.pdb
