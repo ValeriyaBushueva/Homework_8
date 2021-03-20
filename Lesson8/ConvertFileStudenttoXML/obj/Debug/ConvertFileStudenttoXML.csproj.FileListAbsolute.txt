@@ -1,0 +1,7 @@
+C:\Users\Бушуев\Desktop\Lesson8\Lesson8\ConvertFileStudenttoXML\bin\Debug\StudentFile.txt
+C:\Users\Бушуев\Desktop\Lesson8\Lesson8\ConvertFileStudenttoXML\bin\Debug\ConvertFileStudenttoXML.exe
+C:\Users\Бушуев\Desktop\Lesson8\Lesson8\ConvertFileStudenttoXML\bin\Debug\ConvertFileStudenttoXML.pdb
+C:\Users\Бушуев\Desktop\Lesson8\Lesson8\ConvertFileStudenttoXML\obj\Debug\ConvertFileStudenttoXML.csprojAssemblyReference.cache
+C:\Users\Бушуев\Desktop\Lesson8\Lesson8\ConvertFileStudenttoXML\obj\Debug\ConvertFileStudenttoXML.csproj.CoreCompileInputs.cache
+C:\Users\Бушуев\Desktop\Lesson8\Lesson8\ConvertFileStudenttoXML\obj\Debug\ConvertFileStudenttoXML.exe
+C:\Users\Бушуев\Desktop\Lesson8\Lesson8\ConvertFileStudenttoXML\obj\Debug\ConvertFileStudenttoXML.pdb

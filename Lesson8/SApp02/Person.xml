@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Person>
+  <SecondName>Иванович</SecondName>
+  <FirstName>Иван</FirstName>
+  <LastName>Иванов</LastName>
+  <Age>26</Age>
+</Person>
